@@ -1,0 +1,213 @@
+{
+    "suggestions": [
+        {
+            "label": "action",
+            "response": [
+              "Implement engaging action sequences with dynamic camera work and special effects to captivate the audience.",
+              "Craft a compelling storyline that combines suspense, intense moments, and well-choreographed fight scenes to keep viewers on the edge of their seats.",
+              "Explore diverse settings and backdrops to enhance the visual appeal of the action scenes, providing a rich and immersive experience for the audience."
+            ]
+          },
+          {
+            "label": "adult",
+            "response": [
+              "Ensure content is appropriately labeled and restricted to adult audiences to comply with age restrictions and legal requirements.",
+              "Address mature themes with sensitivity, offering nuanced and thought-provoking narratives that resonate with adult viewers.",
+              "Provide clear content warnings to inform viewers about potentially sensitive or explicit material, allowing them to make informed choices."
+            ]
+          },
+      {
+        "label": "adventure",
+        "response": [
+          "Create a captivating and expansive world for characters to explore, filled with intriguing landscapes, cultures, and challenges.",
+          "Build strong character development, allowing the audience to connect with the protagonists on their adventurous journey.",
+          "Introduce unexpected twists and turns in the plot, keeping the sense of wonder and excitement alive throughout the adventure."
+        ]
+      },
+      {
+        "label": "animation",
+        "response": [
+          "Invest in high-quality animation techniques, whether 2D or 3D, to create visually stunning and appealing characters and environments.",
+          "Craft engaging and imaginative storylines suitable for all ages, incorporating humor, emotion, and valuable life lessons.",
+          "Collaborate with talented voice actors to bring characters to life, enhancing the overall storytelling experience."
+        ]
+      },
+      {
+        "label": "biography",
+        "response": [
+          "Thoroughly research and accurately portray the life and achievements of the real-life individual being featured.",
+          "Present a balanced narrative that explores both the successes and challenges faced by the biographical subject.",
+          "Use a compelling storytelling approach that connects with the audience on a personal and emotional level, making the biography relatable."
+        ]
+      },
+      {
+        "label": "comedy",
+        "response": [
+          "Develop strong comedic timing through well-written scripts and skilled performances from the cast.",
+          "Leverage a variety of humor styles, including wit, slapstick, and situational comedy, to cater to a broad audience.",
+          "Create memorable and endearing characters that contribute to the overall comedic atmosphere of the production."
+        ]
+      },
+      {
+        "label": "crime",
+        "response": [
+          "Craft intricate and suspenseful crime plots, keeping viewers guessing and engaged throughout the investigation.",
+          "Develop complex and multi-dimensional characters, including both law enforcement and criminal figures, to add depth to the narrative.",
+          "Address social and ethical issues related to crime, contributing to a thought-provoking viewing experience."
+        ]
+      },
+      {
+        "label": "documentary",
+        "response": [
+          "Thoroughly research and fact-check all information presented to ensure accuracy and credibility.",
+          "Use a compelling storytelling approach to make the documentary informative and engaging for a wide audience.",
+          "Collaborate with experts and eyewitnesses to provide unique insights and perspectives on the subject matter."
+        ]
+      },
+      {
+        "label": "drama",
+        "response": [
+          "Create emotionally resonant storylines with well-developed characters facing relatable challenges and conflicts.",
+          "Explore complex and nuanced themes that prompt introspection and discussion among viewers.",
+          "Encourage powerful performances from the cast to evoke genuine emotions and enhance the overall dramatic impact."
+        ]
+      },
+      {
+        "label": "family",
+        "response": [
+          "Craft heartwarming and relatable stories that resonate with audiences of all ages.",
+          "Incorporate positive messages and values suitable for family viewing, promoting wholesome entertainment.",
+          "Include diverse and relatable characters that allow different members of the family to connect with the narrative."
+        ]
+      },
+      {
+        "label": "fantasy",
+        "response": [
+          "Build a rich and immersive fantasy world with unique landscapes, creatures, and magical elements.",
+          "Create well-defined rules for the fantasy universe to maintain internal consistency and credibility.",
+          "Craft compelling character arcs and plotlines that explore universal themes within the fantastical setting."
+        ]
+      },
+      {
+        "label": "game-show",
+        "response": [
+          "Design entertaining and engaging game formats that encourage participation and excitement among contestants and viewers.",
+          "Incorporate a mix of challenging and entertaining rounds to keep the show dynamic and unpredictable.",
+          "Ensure clear and transparent rules, allowing the audience to follow the competition and understand the stakes."
+        ]
+      },
+      {
+        "label": "history",
+        "response": [
+          "Thoroughly research historical events and figures, presenting an accurate and nuanced portrayal of the past.",
+          "Use a compelling narrative structure that brings history to life, making it accessible and engaging for viewers.",
+          "Integrate expert commentary and analysis to provide context and enhance the educational value of the content."
+        ]
+      },
+      {
+        "label": "music",
+        "response": [
+          "Showcase a diverse range of musical genres and styles to cater to a broad audience.",
+          "Feature talented musicians and performers, highlighting their unique skills and contributions to the music industry.",
+          "Incorporate visually captivating elements, such as music videos or live performances, to enhance the overall viewing experience."
+        ]
+      },
+      {
+        "label": "musical",
+        "response": [
+          "Craft a cohesive and engaging storyline that seamlessly integrates musical performances into the narrative.",
+          "Showcase talented actors who can deliver both compelling acting and impressive musical performances.",
+          "Ensure that the musical numbers contribute to character development and advance the plot in meaningful ways."
+        ]
+      },
+      {
+        "label": "mystery",
+        "response": [
+          "Build suspenseful and intriguing mysteries that keep viewers guessing until the resolution.",
+          "Create well-developed and complex characters with motives that add layers to the mystery.",
+          "Provide clues and hints throughout the storyline, allowing astute viewers to engage in solving the mystery alongside the characters."
+        ]
+      },
+      {
+        "label": "news",
+        "response": [
+          "Adhere to journalistic ethics and standards, ensuring accurate and unbiased reporting of current events.",
+          "Present information in a clear and concise manner, catering to a diverse audience with varying levels of familiarity with the news topic.",
+          "Include expert analysis and diverse perspectives to provide a comprehensive view of the news."
+        ]
+      },
+      {
+        "label": "reality-tv",
+        "response": [
+          "Develop compelling and relatable storylines for reality TV participants, allowing viewers to connect with their experiences.",
+          "Ensure a balance between authenticity and entertainment, avoiding excessive scripting or manipulation of real-life events.",
+          "Incorporate engaging challenges and competitions that keep viewers invested in the contestants' journeys."
+        ]
+      },
+      {
+        "label": "romance",
+        "response": [
+          "Craft genuine and heartfelt romantic storylines that resonate with the audience's emotions.",
+          "Develop well-rounded and relatable characters with chemistry, making the romantic narrative believable and engaging.",
+          "Explore themes of love and relationships with depth and nuance, addressing both the joys and challenges of romance."
+        ]
+      },
+      {
+        "label": "sci-fi",
+        "response": [
+          "Create imaginative and thought-provoking visions of the future, exploring scientific concepts and speculative technologies.",
+          "Craft well-defined and consistent rules for the science fiction universe, maintaining internal logic and coherence.",
+          "Integrate social and philosophical themes into the narrative, prompting viewers to contemplate the implications of futuristic scenarios."
+        ]
+      },
+      {
+        "label": "short",
+        "response": [
+          "Leverage the brevity of the format to deliver impactful and concise storytelling.",
+          "Focus on a central theme or message, ensuring clarity and resonance within the limited duration.",
+          "Experiment with creative visual and narrative techniques to make a lasting impression within a short timeframe."
+        ]
+      },
+      {
+        "label": "sport",
+        "response": [
+          "Capture the excitement and intensity of sports through dynamic camera work and immersive audio design.",
+          "Provide in-depth coverage and analysis, enhancing the viewer's understanding of the sport and its nuances.",
+          "Highlight personal stories and journeys of athletes, creating emotional connections that resonate with sports enthusiasts."
+        ]
+      },
+      {
+        "label": "talk-show",
+        "response": [
+          "Feature diverse and engaging guests with unique perspectives and experiences.",
+          "Encourage open and honest discussions on a variety of topics, fostering a sense of authenticity and relatability.",
+          "Incorporate humor and entertainment elements to keep the audience engaged and entertained."
+        ]
+      },
+      {
+        "label": "thriller",
+        "response": [
+          "Build suspenseful and tense storylines with unexpected twists and turns to keep viewers on the edge of their seats.",
+          "Create a sense of urgency and danger through effective pacing and atmospheric elements.",
+          "Develop complex characters with conflicting motives, adding depth to the psychological and emotional aspects of the thriller."
+        ]
+      },
+      {
+        "label": "war",
+        "response": [
+          "Portray the impact of war on individuals and society with sensitivity and authenticity.",
+          "Present a balanced perspective on the motivations and consequences of war, avoiding overly simplistic narratives.",
+          "Highlight the resilience, courage, and humanity that can emerge in the midst of conflict."
+        ]
+      },
+      {
+        "label": "western",
+        "response": [
+          "Capture the spirit and atmosphere of the American West, paying attention to historical and cultural details.",
+          "Explore themes of justice, morality, and the clash of civilizations, common in Western storytelling.",
+          "Craft memorable characters, including iconic heroes and villains, to contribute to the timeless appeal of the Western genre."
+        ]
+      }
+    ]
+  }
+  
